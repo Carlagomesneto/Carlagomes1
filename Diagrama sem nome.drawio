@@ -1,9 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T12:44:08.685Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.5" etag="kq3pMUBl7F-KzHb7Jdi2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T14:35:04.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="DkFziwP2k3LnZthionPM" version="24.0.5" type="github">
   <diagram name="Página-1" id="4zgEA9HZdJGA7D0MG-Gx">
-    <mxGraphModel>
+    <mxGraphModel dx="1059" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3TLyr5KfRs7zvD90Gjim-1" value="&quot;Frita ovo&quot;" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};treeFolding=1;treeMoving=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="170" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3TLyr5KfRs7zvD90Gjim-4" value="&lt;div&gt;Preparo&lt;/div&gt;&lt;div&gt;ovo ligar&lt;/div&gt;&lt;div&gt;fogo&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="180" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3TLyr5KfRs7zvD90Gjim-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3TLyr5KfRs7zvD90Gjim-12" target="3TLyr5KfRs7zvD90Gjim-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TLyr5KfRs7zvD90Gjim-12" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Frigideira ovo de 4 furos&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=display;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="170" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3TLyr5KfRs7zvD90Gjim-17" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;Abrir geladeira pegar ovos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="170" y="220" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3TLyr5KfRs7zvD90Gjim-18" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Fechar porta geladeira&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=display;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="150" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3TLyr5KfRs7zvD90Gjim-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3TLyr5KfRs7zvD90Gjim-1" target="3TLyr5KfRs7zvD90Gjim-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="200" as="sourcePoint" />
+            <mxPoint x="320" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TLyr5KfRs7zvD90Gjim-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3TLyr5KfRs7zvD90Gjim-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="310" as="sourcePoint" />
+            <mxPoint x="220" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TLyr5KfRs7zvD90Gjim-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="3TLyr5KfRs7zvD90Gjim-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="400" as="sourcePoint" />
+            <mxPoint x="270" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TLyr5KfRs7zvD90Gjim-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3TLyr5KfRs7zvD90Gjim-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="635" as="sourcePoint" />
+            <mxPoint x="220" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TLyr5KfRs7zvD90Gjim-63" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3TLyr5KfRs7zvD90Gjim-34">
+          <mxGeometry x="-0.0296" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TLyr5KfRs7zvD90Gjim-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="800" as="sourcePoint" />
+            <mxPoint x="710" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TLyr5KfRs7zvD90Gjim-62" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3TLyr5KfRs7zvD90Gjim-38">
+          <mxGeometry x="-0.4102" y="3" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TLyr5KfRs7zvD90Gjim-45" value="Preparo&lt;div&gt;Omelete fogo desligar&lt;/div&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="400" y="740" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3TLyr5KfRs7zvD90Gjim-53" value="Pronto" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="650" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3TLyr5KfRs7zvD90Gjim-56" value="Bom apetite" style="shape=display;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="640" y="590" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3TLyr5KfRs7zvD90Gjim-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=68.75;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3TLyr5KfRs7zvD90Gjim-56" target="3TLyr5KfRs7zvD90Gjim-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="420" as="sourcePoint" />
+            <mxPoint x="540" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TLyr5KfRs7zvD90Gjim-64" value="arroz, feijão e ovos" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="160" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TLyr5KfRs7zvD90Gjim-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.011;entryY=0.641;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3TLyr5KfRs7zvD90Gjim-64" target="3TLyr5KfRs7zvD90Gjim-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="700" as="sourcePoint" />
+            <mxPoint x="540" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
